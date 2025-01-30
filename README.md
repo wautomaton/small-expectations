@@ -1,2 +1,3 @@
 # small-expectations
-SAS DQ/DV implementation inspired by great expectations
+SAS DQ/DV implementation inspired by the python project great expectations
+create expectations as json documents and test them on your data

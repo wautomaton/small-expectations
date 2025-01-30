@@ -1,0 +1,6 @@
+{
+    "expectation":"firstname-null",
+    "type":"null",
+    "column":"firstname",
+    "value":"not null"
+}

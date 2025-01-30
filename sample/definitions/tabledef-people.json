@@ -1,0 +1,9 @@
+{
+    "table":"people",
+    "expects":[
+        "firstname-null",
+        "age-range",
+        "age-type",
+        "age-distribution"
+    ]
+}

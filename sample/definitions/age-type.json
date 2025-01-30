@@ -1,0 +1,6 @@
+{
+    "expectation":"age-type",
+    "type":"type",
+    "column":"age",
+    "value":"number"
+}

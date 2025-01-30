@@ -1,0 +1,6 @@
+{
+    "expectation":"age-range",
+    "type":"operator",
+    "column":"age",
+    "value":"between 16 and 100"
+}

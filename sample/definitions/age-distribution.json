@@ -1,0 +1,6 @@
+{
+    "expectation":"age-distribution",
+    "type":"distribution",
+    "column":"age",
+    "value":"normal"
+}
