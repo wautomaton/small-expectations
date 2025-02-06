@@ -3,7 +3,7 @@
 %macro read_json(jsonpath, out, appendto);
     
     /* Define a fileref pointing to the JSON file */
-    filename jsonfile &jsonpath;
+    filename jsonfile """&jsonpath""";
     
     /* Create a SAS dataset named &out */
     data &out;
